@@ -24,6 +24,10 @@
         "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/res/drawable/tooltip_frame_dark.xml"
     },
     {
+        "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout_item_tweet.xml.flat",
+        "source": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/res/layout/item_tweet.xml"
+    },
+    {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
         "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
     },
@@ -65,7 +69,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/layout/notification_template_part_chronometer.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
@@ -137,7 +141,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable/notification_icon_background.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -185,7 +189,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -201,7 +205,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/layout/notification_template_part_time.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -229,7 +233,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -253,7 +257,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
@@ -301,7 +305,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -337,7 +341,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
@@ -545,7 +549,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -633,7 +637,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -689,7 +693,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -737,7 +741,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable/notification_tile_bg.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -765,7 +769,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -833,7 +837,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -953,7 +957,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1081,11 +1085,11 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1201,7 +1205,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1288,12 +1292,16 @@
         "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout_custom_dialog.xml.flat",
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
         "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/res/drawable/abc_vector_test.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
@@ -1320,12 +1328,16 @@
         "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout_activity_timeline.xml.flat",
+        "source": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/res/layout/activity_timeline.xml"
+    },
+    {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
         "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1337,7 +1349,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/layout-v21/notification_action.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -1357,7 +1369,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable/notification_bg_low.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout_abc_cascading_menu_item_layout.xml.flat",
@@ -1433,7 +1445,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -1445,11 +1457,11 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable/notification_bg.xml"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1473,7 +1485,7 @@
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/72b2b92ec4ab73ff21fb9bc348de3b22/core-1.0.1/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
