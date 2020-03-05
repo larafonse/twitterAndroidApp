@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/838655eedeee02369b5c987d2e36b95a/android-oauth-handler-2.2.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/91a55b92e637d838eea004aa285e97f5/asynchttpclient-0.0.9/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/f6a183f8595ca34f3d5cc99d1f8bc322/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
@@ -41,9 +41,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.print:print:1.0.0] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/85b59553d84ac8d04663d7d81848664c/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/684c19030ab34291fff8f6b761838da8/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
 		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:3:5-51
 		INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml
@@ -67,7 +67,7 @@ ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app
 	android:name
 		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:10:5-37:19
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:10:5-38:19
 MERGED from [com.github.bumptech.glide:glide:4.10.0-SNAPSHOT] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/680b4939b8fc5704114da259c01b0f68/glide-4.10.0-SNAPSHOT/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.10.0-SNAPSHOT] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/680b4939b8fc5704114da259c01b0f68/glide-4.10.0-SNAPSHOT/AndroidManifest.xml:10:5-20
 MERGED from [androidx.room:room-runtime:2.1.0] /Users/nicolaslara/.gradle/caches/transforms-2/files-2.1/3b878328b887e71e2102624e91f68331/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
@@ -96,48 +96,52 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0-SNAPSHOT] /Users/nicola
 		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:16:9-62
+	android:name
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:16:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:16:9-63
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:17:9-54
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:16:19-51
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:17:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:17:9-36:20
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:18:9-37:20
 	android:label
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:20:13-45
 	android:theme
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:21:13-44
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:18:13-42
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:19:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:25:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:26:13-35:29
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:27:13-36:29
 action#android.intent.action.VIEW
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:29:27-73
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:30:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:30:17-78
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:31:17-78
 	android:name
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:30:27-75
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:31:27-75
 data
-ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:32:17-34:62
+ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:33:17-35:62
 	android:host
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:33:21-55
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:34:21-55
 	android:scheme
-		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:34:21-59
+		ADDED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml:35:21-59
 uses-sdk
 INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nicolaslara/Desktop/dev/android-dev-club/twitterAndroidApp/app/src/main/AndroidManifest.xml
